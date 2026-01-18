@@ -1,0 +1,6 @@
+[Unit]
+Description=Collect and upload logs to S3
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/log_collector.sh
