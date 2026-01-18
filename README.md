@@ -1,4 +1,4 @@
-# EC2 Log Collector
+# EC2 Linux Log Collector
 
 Automated Linux system log collection from EC2 instances to S3 using systemd timers.
 
